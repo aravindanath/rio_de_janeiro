@@ -1,0 +1,6 @@
+car=set()
+car.add("Innova")
+car.add("kia")
+car.add("MG")
+car.add("Innova")
+print(car)
