@@ -1,0 +1,6 @@
+car = set()
+car.add("honda")
+car.add("maruthi")
+car.add("civic")
+car.add("maruthi")
+print(car)
