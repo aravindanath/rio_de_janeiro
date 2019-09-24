@@ -8,6 +8,7 @@ print(country)
 country.insert(2,'NORWAY')
 print(country)
 colour=['saffron','yellow','green','red','blue','violet']
+colour.sort()
 print(colour)
 combined=[country+colour]
 print(combined)
