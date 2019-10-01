@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="597884f5-8b86-402a-bf02-7ab6dd7e76c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CarException.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,9 +20,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1RaBOo1wzyLSh6VNvqrZKcXXrHW" />
+  <component name="ProjectId" id="1RaAfr9kpUHlopWkTSHT70WnJd9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Chandrayan3Proj/SeleniumFunctions" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -34,11 +34,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day14" />
+      <recent name="$PROJECT_DIR$/../PythonSeleniumProject/Day14" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/../Chandrayan3Proj/SeleniumFunctions" />
@@ -69,12 +69,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PythonSeleniumProject/Day15" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day15/RedBusTicketSearch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PythonSeleniumProject/Day15/RedBusTicketSearch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -259,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569386119140</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="assignmnet fruit">
+      <created>1569895065524</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1569895065524</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -289,7 +296,8 @@
     <MESSAGE value="selenium functions" />
     <MESSAGE value="class and inhereat" />
     <MESSAGE value="updated code" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated code" />
+    <MESSAGE value="assignmnet fruit" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignmnet fruit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -315,7 +323,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/rio_de_janeiro$classDemo.coverage" NAME="classDemo Coverage Results" MODIFIED="1569377320536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day5" />
     <SUITE FILE_PATH="coverage/rio_de_janeiro$forLoopDict.coverage" NAME="forLoopDict Coverage Results" MODIFIED="1568946325023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
-    <SUITE FILE_PATH="coverage/rio_de_janeiro$RedBusTicketSearch.coverage" NAME="RedBusTicketSearch Coverage Results" MODIFIED="1569384783680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/PythonSeleniumProject/Day15" />
+    <SUITE FILE_PATH="coverage/rio_de_janeiro$RedBusTicketSearch.coverage" NAME="RedBusTicketSearch Coverage Results" MODIFIED="1569384783680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PythonSeleniumProject/Day15" />
     <SUITE FILE_PATH="coverage/rio_de_janeiro$calsaswin.coverage" NAME="calsaswin Coverage Results" MODIFIED="1568945461661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment" />
     <SUITE FILE_PATH="coverage/rio_de_janeiro$listForLoop.coverage" NAME="listForLoop Coverage Results" MODIFIED="1568946007561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day2" />
     <SUITE FILE_PATH="coverage/rio_de_janeiro$whileElse.coverage" NAME="whileElse Coverage Results" MODIFIED="1569204594266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day3" />
