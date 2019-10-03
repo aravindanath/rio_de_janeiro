@@ -1,0 +1,5 @@
+.xlsx --> IM
+.txt --> For interview only
+.ini ---> IM
+.csv ---> IM
+.property -->IM
