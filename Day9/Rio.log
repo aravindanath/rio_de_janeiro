@@ -1,0 +1,7 @@
+INFO:root:Hi all today we are learning logging in python
+WARNING:root:Hi this is a warning
+DEBUG:root:Hi all this is debug level log..
+ERROR:root:hi this is error level log
+ERROR:root:hi this exception level
+NoneType: None
+CRITICAL:root:Hi this is critical log
