@@ -7,11 +7,16 @@ from selenium import webdriver
 
 ops = webdriver.ChromeOptions()
 ops.add_argument("--disable-notifications")
-
+# ops.add_argument("--headless")
+ops.add_argument("--incognito")
 
 path = "../driver/chromedriver"
 driver = webdriver.Chrome(options=ops,executable_path=path)
 
-driver.get("https://icicibank.com")
-driver.find_element_by_xpath("//*[@id='main']/div[2]/ul/li[9]/a/span").click()
+driver.get("https://www.facebook.com")
+print(driver.title)
+
+driver.quit()
+
+
 
