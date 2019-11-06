@@ -32,14 +32,17 @@ class HandlingAletsUsingSelenium():
         ele.click()
         time.sleep(1)
         alert = op.driver.switch_to.alert
-        alert.send_keys("Hello guys")
+        msg = "Good morning"
+        alert.send_keys(msg)
         time.sleep(2)
         alert.accept()
         time.sleep(1)
-        val = op.driver.find_element_by_xpath("//p[@id='result']").text
-        print(val)
+        val = op.driver.find_element_by_xpath("//p[@id='result']")
+        print(val.text)
+        result = str(val.text).split(":")
+        assert result[1].strip() == msg
 
-        # assert val == "Hello guys"
+
 
 
 
